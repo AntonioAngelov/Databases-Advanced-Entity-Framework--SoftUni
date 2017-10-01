@@ -1,0 +1,15 @@
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\bin\Debug\SoftUniDatabase-Exercise.exe.config
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\bin\Debug\SoftUniDatabase-Exercise.exe
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\bin\Debug\SoftUniDatabase-Exercise.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\bin\Debug\EntityFramework.dll
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\bin\Debug\EntityFramework.SqlServer.dll
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\bin\Debug\EntityFramework.xml
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\bin\Debug\EntityFramework.SqlServer.xml
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\obj\Debug\SoftUniDatabase-Exercise.exe
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\obj\Debug\SoftUniDatabase-Exercise.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\bin\Debug\SoftUniDatabase-Exercise.exe.config
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\obj\Debug\SoftUniDatabase-Exercise.exe
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\obj\Debug\SoftUniDatabase-Exercise.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AdvancedQuerying\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\bin\Debug\SoftUniDatabase-Exercise.exe.config
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AdvancedQuerying\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\obj\Debug\SoftUniDatabase-Exercise.exe
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AdvancedQuerying\Exercises-AdvancedQuerying\SoftUniDatabase-Exercise\obj\Debug\SoftUniDatabase-Exercise.pdb

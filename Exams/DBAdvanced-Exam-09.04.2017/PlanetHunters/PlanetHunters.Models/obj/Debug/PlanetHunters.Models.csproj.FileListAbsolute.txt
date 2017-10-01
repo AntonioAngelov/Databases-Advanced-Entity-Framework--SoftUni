@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-Exam-09.04.2017\PlanetHunters\PlanetHunters.Models\bin\Debug\PlanetHunters.Models.dll
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-Exam-09.04.2017\PlanetHunters\PlanetHunters.Models\bin\Debug\PlanetHunters.Models.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-Exam-09.04.2017\PlanetHunters\PlanetHunters.Models\obj\Debug\PlanetHunters.Models.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-Exam-09.04.2017\PlanetHunters\PlanetHunters.Models\obj\Debug\PlanetHunters.Models.dll
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-Exam-09.04.2017\PlanetHunters\PlanetHunters.Models\obj\Debug\PlanetHunters.Models.pdb

@@ -1,0 +1,7 @@
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AutMappingObjects\AdvanceMappigAndProjection\obj\Debug\AdvanceMappigAndProjection.exe
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AutMappingObjects\AdvanceMappigAndProjection\obj\Debug\AdvanceMappigAndProjection.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AutMappingObjects\AdvanceMappigAndProjection\bin\Debug\AdvanceMappigAndProjection.exe.config
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AutMappingObjects\AdvanceMappigAndProjection\bin\Debug\AdvanceMappigAndProjection.exe
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AutMappingObjects\AdvanceMappigAndProjection\bin\Debug\AdvanceMappigAndProjection.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AutMappingObjects\AdvanceMappigAndProjection\bin\Debug\AutoMapper.dll
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AutMappingObjects\AdvanceMappigAndProjection\bin\Debug\AutoMapper.xml

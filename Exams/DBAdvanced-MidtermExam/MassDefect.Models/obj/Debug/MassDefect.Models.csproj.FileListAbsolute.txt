@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-MidtermExam\MassDefect.Models\bin\Debug\MassDefect.Models.dll
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-MidtermExam\MassDefect.Models\bin\Debug\MassDefect.Models.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-MidtermExam\MassDefect.Models\obj\Debug\MassDefect.Models.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-MidtermExam\MassDefect.Models\obj\Debug\MassDefect.Models.dll
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-MidtermExam\MassDefect.Models\obj\Debug\MassDefect.Models.pdb

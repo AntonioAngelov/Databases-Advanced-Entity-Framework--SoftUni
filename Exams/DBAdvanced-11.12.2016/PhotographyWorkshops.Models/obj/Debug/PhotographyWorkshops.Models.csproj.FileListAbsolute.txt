@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-11.12.2016\PhotographyWorkshops.Models\bin\Debug\PhotographyWorkshops.Models.dll
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-11.12.2016\PhotographyWorkshops.Models\bin\Debug\PhotographyWorkshops.Models.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-11.12.2016\PhotographyWorkshops.Models\obj\Debug\PhotographyWorkshops.Models.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-11.12.2016\PhotographyWorkshops.Models\obj\Debug\PhotographyWorkshops.Models.dll
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvanced-11.12.2016\PhotographyWorkshops.Models\obj\Debug\PhotographyWorkshops.Models.pdb

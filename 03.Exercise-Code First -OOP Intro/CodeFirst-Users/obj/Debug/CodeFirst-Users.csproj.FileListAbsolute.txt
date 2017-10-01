@@ -1,0 +1,1 @@
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-CodeFirst-OOPIntro\CodeFirst-Users\bin\Debug\CodeFirst-Users.exe.config

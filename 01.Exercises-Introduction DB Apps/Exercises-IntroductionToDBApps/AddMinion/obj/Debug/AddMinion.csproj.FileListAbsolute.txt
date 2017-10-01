@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\AddMinion\bin\Debug\AddMinion.exe.config
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\AddMinion\bin\Debug\AddMinion.exe
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\AddMinion\bin\Debug\AddMinion.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\AddMinion\obj\Debug\AddMinion.exe
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\AddMinion\obj\Debug\AddMinion.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\AddMinion\obj\Debug\AddMinion.csprojResolveAssemblyReference.cache

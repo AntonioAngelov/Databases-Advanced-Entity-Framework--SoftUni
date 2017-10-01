@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvancedRetakeExam-20-12-2016\WeddingsPlanner.Models\bin\Debug\WeddingsPlanner.Models.dll
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvancedRetakeExam-20-12-2016\WeddingsPlanner.Models\bin\Debug\WeddingsPlanner.Models.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvancedRetakeExam-20-12-2016\WeddingsPlanner.Models\obj\Debug\WeddingsPlanner.Models.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvancedRetakeExam-20-12-2016\WeddingsPlanner.Models\obj\Debug\WeddingsPlanner.Models.dll
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\DBAdvancedRetakeExam-20-12-2016\WeddingsPlanner.Models\obj\Debug\WeddingsPlanner.Models.pdb

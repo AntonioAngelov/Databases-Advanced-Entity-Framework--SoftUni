@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotograpyWorkshops.Client", "PhotograpyWorkshops.Client\PhotograpyWorkshops.Client.csproj", "{377C9145-DA79-40BA-A9C0-95BBAE749D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotographyWorkshops.Models", "PhotographyWorkshops.Models\PhotographyWorkshops.Models.csproj", "{89ADF5E3-907D-432B-AB97-224479FF008D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotographyWorkshops.Data", "PhotographyWorkshops.Data\PhotographyWorkshops.Data.csproj", "{7DEB264D-4FD0-4025-B402-6A505D86CE99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{377C9145-DA79-40BA-A9C0-95BBAE749D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377C9145-DA79-40BA-A9C0-95BBAE749D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377C9145-DA79-40BA-A9C0-95BBAE749D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377C9145-DA79-40BA-A9C0-95BBAE749D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89ADF5E3-907D-432B-AB97-224479FF008D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89ADF5E3-907D-432B-AB97-224479FF008D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89ADF5E3-907D-432B-AB97-224479FF008D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89ADF5E3-907D-432B-AB97-224479FF008D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DEB264D-4FD0-4025-B402-6A505D86CE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEB264D-4FD0-4025-B402-6A505D86CE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEB264D-4FD0-4025-B402-6A505D86CE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEB264D-4FD0-4025-B402-6A505D86CE99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

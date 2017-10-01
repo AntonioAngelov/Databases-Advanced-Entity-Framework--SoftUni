@@ -1,0 +1,5 @@
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\GetMinionNames\bin\Debug\GetMinionNames.exe.config
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\GetMinionNames\bin\Debug\GetMinionNames.exe
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\GetMinionNames\bin\Debug\GetMinionNames.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\GetMinionNames\obj\Debug\GetMinionNames.exe
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\GetMinionNames\obj\Debug\GetMinionNames.pdb

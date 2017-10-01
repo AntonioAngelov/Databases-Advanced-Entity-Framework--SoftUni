@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-SoftUni-Database", "Employees-Full-Information\Exercise-SoftUni-Database.csproj", "{9B7B18CA-32D0-461A-AD4F-9B2630FBBEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-Gringotts-Database", "Exercise-Gringotts-Database\Exercise-Gringotts-Database.csproj", "{9114265B-9D1E-4C5E-9CE5-2BE90CA69FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B7B18CA-32D0-461A-AD4F-9B2630FBBEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7B18CA-32D0-461A-AD4F-9B2630FBBEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7B18CA-32D0-461A-AD4F-9B2630FBBEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7B18CA-32D0-461A-AD4F-9B2630FBBEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9114265B-9D1E-4C5E-9CE5-2BE90CA69FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9114265B-9D1E-4C5E-9CE5-2BE90CA69FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9114265B-9D1E-4C5E-9CE5-2BE90CA69FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9114265B-9D1E-4C5E-9CE5-2BE90CA69FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

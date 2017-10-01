@@ -1,0 +1,6 @@
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\GetVillains’Names\bin\Debug\GetVillains’Names.exe.config
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\GetVillains’Names\bin\Debug\GetVillains’Names.exe
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\GetVillains’Names\bin\Debug\GetVillains’Names.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\GetVillains’Names\obj\Debug\GetVillains’Names.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\GetVillains’Names\obj\Debug\GetVillains’Names.exe
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-IntroductionDBApps\Exercises-IntroductionToDBApps\GetVillains’Names\obj\Debug\GetVillains’Names.pdb

@@ -1,0 +1,1 @@
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\GringottsDB-Exercise\bin\Debug\GringottsDB-Exercise.exe.config

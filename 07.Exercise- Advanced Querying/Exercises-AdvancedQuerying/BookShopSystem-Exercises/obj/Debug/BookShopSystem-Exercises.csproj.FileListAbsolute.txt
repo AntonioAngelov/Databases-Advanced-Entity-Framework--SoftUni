@@ -1,0 +1,16 @@
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\BookShopSystem-Exercises\bin\Debug\BookShopSystem-Exercises.exe.config
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\BookShopSystem-Exercises\bin\Debug\BookShopSystem-Exercises.exe
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\BookShopSystem-Exercises\bin\Debug\BookShopSystem-Exercises.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\BookShopSystem-Exercises\bin\Debug\EntityFramework.dll
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\BookShopSystem-Exercises\bin\Debug\EntityFramework.SqlServer.dll
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\BookShopSystem-Exercises\bin\Debug\EntityFramework.xml
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\BookShopSystem-Exercises\bin\Debug\EntityFramework.SqlServer.xml
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\BookShopSystem-Exercises\obj\Debug\BookShopSystem-Exercises.csprojResolveAssemblyReference.cache
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\BookShopSystem-Exercises\obj\Debug\BookShopSystem-Exercises.exe
+E:\Uchene\SoftUni\DB Fundamentals\Exercises-AdvancedQuerying\BookShopSystem-Exercises\obj\Debug\BookShopSystem-Exercises.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-AdvancedQuerying\BookShopSystem-Exercises\bin\Debug\BookShopSystem-Exercises.exe.config
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-AdvancedQuerying\BookShopSystem-Exercises\obj\Debug\BookShopSystem-Exercises.exe
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercises-AdvancedQuerying\BookShopSystem-Exercises\obj\Debug\BookShopSystem-Exercises.pdb
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AdvancedQuerying\Exercises-AdvancedQuerying\BookShopSystem-Exercises\bin\Debug\BookShopSystem-Exercises.exe.config
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AdvancedQuerying\Exercises-AdvancedQuerying\BookShopSystem-Exercises\obj\Debug\BookShopSystem-Exercises.exe
+E:\Uchene\SoftUni\DB Fundamentals\Databases Advanced-Entity Framework\Exercise-AdvancedQuerying\Exercises-AdvancedQuerying\BookShopSystem-Exercises\obj\Debug\BookShopSystem-Exercises.pdb
